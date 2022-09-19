@@ -26,7 +26,6 @@ La respuesta también es muy sencilla: solamente consiste el archivo pedido.
 
 
 # INDICE.
-
 -----------------------
 
 Tim Berners-Lee, el creador de la web.
