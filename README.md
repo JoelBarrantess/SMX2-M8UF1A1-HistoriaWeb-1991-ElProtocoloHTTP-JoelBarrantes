@@ -2,7 +2,7 @@
 
 *Hecho por Joel Barrantes*
 
-![HTTP](/img/HTTP_0.9.png)
+![HTTP](http-search.gif)
 <br />
 # INDICE.
 -----------------------
