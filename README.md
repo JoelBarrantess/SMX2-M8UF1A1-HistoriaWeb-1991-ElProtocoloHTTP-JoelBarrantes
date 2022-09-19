@@ -3,6 +3,15 @@
 *Hecho por Joel Barrantes*
 
 
+
+# INDICE.
+-----------------------
+
+### 1. Tim Berners-Lee, el creador de la web.
+### 2. HTTP/0.9 – El protocolo de una sola línea
+### 3. La primera comunicación
+
+
 ## Tim Berners-Lee, el creador de la web
 
 -Tim Berners-Lee introduce HTTP como una forma para que los clientes (navegadores web) se comuniquen con los servidores. 
@@ -25,9 +34,3 @@ La respuesta también es muy sencilla: solamente consiste el archivo pedido.
 -Estableció la primera comunicación entre un cliente y un servidor usando el protocolo HTTP en noviembre de 1989. 
 
 
-# INDICE.
------------------------
-
-### 1. Tim Berners-Lee, el creador de la web.
-### 2. HTTP/0.9 – El protocolo de una sola línea
-### 3. La primera comunicación
