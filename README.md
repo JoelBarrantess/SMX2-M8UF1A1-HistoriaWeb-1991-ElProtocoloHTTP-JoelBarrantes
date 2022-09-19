@@ -28,4 +28,6 @@ La respuesta también es muy sencilla: solamente consiste el archivo pedido.
 # INDICE.
 -----------------------
 
-Tim Berners-Lee, el creador de la web.
+1. Tim Berners-Lee, el creador de la web.
+2. HTTP/0.9 – El protocolo de una sola línea
+3. La primera comunicación
