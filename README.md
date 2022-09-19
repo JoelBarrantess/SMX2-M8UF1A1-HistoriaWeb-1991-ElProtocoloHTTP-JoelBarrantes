@@ -1,6 +1,6 @@
 # El protocolo HTTP
 
-Hecho por Joel Barrantes
+> *Hecho por Joel Barrantes*
 
 
 ## Tim Berners-Lee, el creador de la web
