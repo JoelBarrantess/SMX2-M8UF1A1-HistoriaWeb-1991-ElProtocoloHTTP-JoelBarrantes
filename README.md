@@ -2,8 +2,8 @@
 
 *Hecho por Joel Barrantes*
 
-
-
+![HTTP](/img/HTTP_0.9.png)
+<br />
 # INDICE.
 -----------------------
 
