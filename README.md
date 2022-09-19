@@ -12,6 +12,9 @@
 ### 3. La primera comunicación
 
 
+
+
+
 ## Tim Berners-Lee, el creador de la web
 
 -Tim Berners-Lee introduce HTTP como una forma para que los clientes (navegadores web) se comuniquen con los servidores. 
