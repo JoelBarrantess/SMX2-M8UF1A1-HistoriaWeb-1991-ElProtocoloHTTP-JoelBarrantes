@@ -11,9 +11,7 @@
 ### 2. HTTP/0.9 – El protocolo de una sola línea
 ### 3. La primera comunicación
 *****************************
-
-
-
+.
 
 ## Tim Berners-Lee, el creador de la web
 
