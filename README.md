@@ -25,6 +25,6 @@ La respuesta también es muy sencilla: solamente consiste el archivo pedido.
 -Estableció la primera comunicación entre un cliente y un servidor usando el protocolo HTTP en noviembre de 1989. 
 
 
-	Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
