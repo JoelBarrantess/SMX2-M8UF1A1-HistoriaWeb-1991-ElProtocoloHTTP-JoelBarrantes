@@ -36,7 +36,7 @@ La respuesta también es muy sencilla: solamente consiste el archivo pedido.
 <HTML> Una pagina web muy sencilla </HTML>
 ```
 
-<img src="/img/HTTP_0.9.png" alt="http" width="200"/>
+<img src="/img/HTTP_0.9.png" alt="http" width="1000"/>
 
 -Estableció la primera comunicación entre un cliente y un servidor usando el protocolo HTTP en noviembre de 1989. 
 
