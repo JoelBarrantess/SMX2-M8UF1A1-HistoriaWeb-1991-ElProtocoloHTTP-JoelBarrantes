@@ -20,8 +20,10 @@
 
 -Tim Berners-Lee introduce HTTP como una forma para que los clientes (navegadores web) se comuniquen con los servidores. 
 
+<center>
 <img src="/img/Tim_Berners_Lee.jpg" alt="Tim" width="200"/>
-
+</center>
+  
 ## HTTP/0.9 – El protocolo de una sola línea
 
 -El primer borrador, HTTP v0.9, incluye solo un método, una solicitud GET, utilizada por los clientes como una forma de solo lectura para poder ver páginas web; una petición consiste simplemente en una única linea, usando el unico método posible GET, seguido por la dirección del recurso a pedir.
