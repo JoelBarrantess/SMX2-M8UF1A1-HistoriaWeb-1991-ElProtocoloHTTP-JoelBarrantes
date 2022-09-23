@@ -20,9 +20,7 @@
 
 -Tim Berners-Lee introduce HTTP como una forma para que los clientes (navegadores web) se comuniquen con los servidores. 
 
-<center>
 <img src="/img/Tim_Berners_Lee.jpg" alt="Tim" width="200"/>
-</center>
   
 ## HTTP/0.9 – El protocolo de una sola línea
 
